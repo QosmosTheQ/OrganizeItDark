@@ -2,8 +2,13 @@
 
 OrganizeIt is a simple file organization tool that helps you organize your files into different folders based on their extensions.
 
-
-![ss](https://media.discordapp.net/attachments/1120091854210334800/1148667158134530098/image.png)
+<img style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%;"
+    src="https://media.discordapp.net/attachments/1120091854210334800/1148667158134530098/image.png" 
+    alt="screenshot">
+</img>
 
 ## Features
 
