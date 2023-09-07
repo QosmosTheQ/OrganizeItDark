@@ -32,7 +32,9 @@ public:
     {
         if (OrganizeIt->objectName().isEmpty())
             OrganizeIt->setObjectName(QString::fromUtf8("OrganizeIt"));
-        OrganizeIt->resize(504, 213);
+        OrganizeIt->resize(500, 220);
+        OrganizeIt->setMinimumSize(QSize(500, 220));
+        OrganizeIt->setMaximumSize(QSize(500, 220));
         OrganizeIt->setStyleSheet(QString::fromUtf8("background-color: rgb(61, 56, 70)"));
         centralwidget = new QWidget(OrganizeIt);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
